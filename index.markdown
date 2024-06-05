@@ -6,13 +6,11 @@ layout: default
 ---
 
 # ABOUT
-<a id="about"></a>
 
 The 7th European P4 Workshop (EuroP4’24) will bring together networking researchers and practitioners to discuss cutting-edge, P4-enabled research and P4-based technology. The workshop provides a venue for presenting and discussing research and projects related to P4, as well as for more broadly discussing the needs of this research community. The workshop aims to forge new connections between researchers who already work with P4, introduce more networking researchers to the P4 community, and seed future top-tier publications, innovation and contributions to this community.
 
 
 # TOPICS OF INTEREST
-<a id="toi"></a>
 
 We solicit original, previously unpublished ideas on research and engineering work enabled by P4, and work-in-progress reports in the form of short papers. We further encourage papers that propose new research directions or that could stimulate lively debate at the workshop. We invite submissions on a wide range of topics of interest, including, but not limited to:
 
@@ -37,7 +35,6 @@ We solicit original, previously unpublished ideas on research and engineering wo
 - **P4 evolution:** All kinds of P4 language extensions, new data plane programming models and even alternatives to the P4 language itself.
 
 # IMPORTANT DATES
-<a id="dates"></a>
 
 **Submission deadline:** Monday, July 15, 2024
 
@@ -48,7 +45,6 @@ We solicit original, previously unpublished ideas on research and engineering wo
 **Workshop Event:** October 28, 2024
 
 # SUBMISSION INSTRUCTIONS
-<a id="instructions"></a>
 
 EuroP4 solicits full-length technical papers of 6 pages and short poster/demo papers as 3-page extended abstracts. Both formats allow for 1 additional page for appendices and unlimited pages for references. Submissions should adhere to the traditional 2-columns, 10pt IEEE Conference format. You can find [the template at this link](https://www.ieee.org/conferences/publishing/templates.html). 
 
@@ -58,12 +54,10 @@ EuroP4 will use a double-blind review process, hence, submitted papers must not 
 Authors are required to present accepted papers at the workshop in order for the paper to appear in the ICNP proceedings and IEEE Xplore. Exceptions from this policy for occasional situations must be approved by the TPC Chairs before the beginning of the workshop.
 
 # SUBMISSION WEBSITE
-<a id="submission"></a>
 
 Submission portal will be announced later.
 
 # WORKSHOP ORGANISERS
-<a id="organisers"></a>
 
 **General Chairs:**
 
@@ -82,7 +76,6 @@ Sandor Laki, ELTE Eötvös Loránd University
 Csaba Györgyi, ELTE Eötvös Loránd University / University of Vienna
 
 # CONTACT US
-<a id="contact"></a>
 
 If you have any questions, please email the TPC co-chairs:
 
