@@ -5,7 +5,7 @@
 layout: default
 ---
 
-# About
+# ABOUT
 <a id="about"></a>
 
 The 7th European P4 Workshop (EuroP4’24) will bring together networking researchers and practitioners to discuss cutting-edge, P4-enabled research and P4-based technology. The workshop provides a venue for presenting and discussing research and projects related to P4, as well as for more broadly discussing the needs of this research community. The workshop aims to forge new connections between researchers who already work with P4, introduce more networking researchers to the P4 community, and seed future top-tier publications, innovation and contributions to this community.
