@@ -46,9 +46,8 @@ We solicit original, previously unpublished ideas on research and engineering wo
 
 # SUBMISSION INSTRUCTIONS
 
-EuroP4 solicits full-length technical papers of 6 pages and short poster/demo papers as 3-page extended abstracts. Both formats allow for 1 additional page for appendices and unlimited pages for references. Submissions should adhere to the traditional 2-columns, 10pt IEEE Conference format. You can find [the template at this link](https://www.ieee.org/conferences/publishing/templates.html). 
+EuroP4 solicits full-length technical papers of 6 pages (including references and appendices) and short poster/demo papers as 3-page extended abstracts. Submissions should adhere to the traditional 2-columns, 10pt IEEE Computer Society format. You can find [the template at this link](https://www.ieee.org/conferences/publishing/templates.html). 
 
-When opening the template in overleaf, please check out the sample-sigconf.tex and set up the latex class as `\documentclass[10pt,sigconf,letterpaper,anonymous,nonacm]{acmart}`
 EuroP4 will use a double-blind review process, hence, submitted papers must not indicate author names or affiliations.
 
 Authors are required to present accepted papers at the workshop in order for the paper to appear in the ICNP proceedings and IEEE Xplore. Exceptions from this policy for occasional situations must be approved by the TPC Chairs before the beginning of the workshop.
@@ -79,4 +78,4 @@ Csaba Györgyi, ELTE Eötvös Loránd University / University of Vienna
 
 If you have any questions, please email the TPC co-chairs:
 
-Amedeo Sapio <amedeo [dot] sapio [at] gmail [dot] com> and Sandor Laki <lakis [at] inf [dot] elte [dot] hu>.
+Amedeo Sapio <asapio [at] amazon [dot] com> and Sandor Laki <lakis [at] inf [dot] elte [dot] hu>.
